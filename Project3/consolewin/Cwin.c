@@ -1,0 +1,1 @@
+DrawWindow(int width, int length);
