@@ -1,0 +1,4 @@
+﻿  watch.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\Owner\winprogram1360\watch\watch\watch.cpp(6,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  watch.vcxproj -> C:\Users\Owner\winprogram1360\watch\x64\Debug\watch.exe
